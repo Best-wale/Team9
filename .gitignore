@@ -1,0 +1,15 @@
+dataset/
+images/
+product_images/
+test/
+valid/
+db.sqlite3
+original.py
+train_model.py
+url_images.csv
+model_classifier.h5
+README.dataset.txt
+adidas_detector_model.h5
+README.roboflow.txt
+train/
+_annotations.csv
