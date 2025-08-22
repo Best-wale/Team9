@@ -72,7 +72,7 @@ sqlparse==0.5.3
 sympy==1.14.0
 tensorboard==2.20.0
 tensorboard-data-server==0.7.2
-tensorflow @ file:///C:/Users/USER/Downloads/tensorflow-2.20.0-cp312-cp312-win_amd64.whl#sha256=1590cbf87b6bcbd34d8e9ad70d0c696135e0aa71be31803b27358cf7ed63f8fc
+tensorflow==2.20.0
 termcolor==3.1.0
 threadpoolctl==3.6.0
 torch==2.8.0
